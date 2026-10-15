@@ -1,1 +1,1 @@
-print("Aplikasi Kasir")
+print("Hello Kasir")
